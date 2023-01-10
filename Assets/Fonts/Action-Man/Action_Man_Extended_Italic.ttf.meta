@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 4b1e4d3071e4ae84bb110594b18fb5ff
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Action Man Extended
+  fontNames:
+  - Action Man Extended
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7788e297d5657ee4990c47e7706cd5c0, type: 3}
+  - {fileID: 12800000, guid: 23b6335896a7c9b47beff7ae4c800f7d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

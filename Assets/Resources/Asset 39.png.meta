@@ -1,0 +1,1075 @@
+fileFormatVersion: 2
+guid: dffae2fdb414a1e45b068778b115ab8b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5211762355497994496
+    second: Asset 39_0
+  - first:
+      213: -303022793971098478
+    second: Asset 39_1
+  - first:
+      213: 4078975139162239400
+    second: Asset 39_2
+  - first:
+      213: -7775082358296395215
+    second: Asset 39_3
+  - first:
+      213: 8798012622628048989
+    second: Asset 39_4
+  - first:
+      213: 4601001353814848561
+    second: Asset 39_5
+  - first:
+      213: -8237596759293273983
+    second: Asset 39_6
+  - first:
+      213: 3911995440463373591
+    second: Asset 39_7
+  - first:
+      213: 6979673249375935474
+    second: Asset 39_8
+  - first:
+      213: -7258831145354958392
+    second: Asset 39_9
+  - first:
+      213: 917709779271930322
+    second: Asset 39_10
+  - first:
+      213: 8020091597118916170
+    second: Asset 39_11
+  - first:
+      213: -7332998971220812135
+    second: Asset 39_12
+  - first:
+      213: 3448089835094728295
+    second: Asset 39_13
+  - first:
+      213: -7803913961953938053
+    second: Asset 39_14
+  - first:
+      213: 8986996847156678138
+    second: Asset 39_15
+  - first:
+      213: 1128049884364957398
+    second: Asset 39_16
+  - first:
+      213: -4261704891281673255
+    second: Asset 39_17
+  - first:
+      213: 3962008871031017835
+    second: Asset 39_18
+  - first:
+      213: -3064801491934054259
+    second: Asset 39_19
+  - first:
+      213: 3328783310349638510
+    second: Asset 39_20
+  - first:
+      213: 1448390272590290429
+    second: Asset 39_21
+  - first:
+      213: 4285988130639328857
+    second: Asset 39_22
+  - first:
+      213: 2186620966326079150
+    second: Asset 39_23
+  - first:
+      213: 376758410635540147
+    second: Asset 39_24
+  - first:
+      213: 8081899712237015912
+    second: Asset 39_25
+  - first:
+      213: -8934913469689065355
+    second: Asset 39_26
+  - first:
+      213: -8221169952312591739
+    second: Asset 39_27
+  - first:
+      213: 7642745715854506137
+    second: Asset 39_28
+  - first:
+      213: -6943219152925757247
+    second: Asset 39_29
+  - first:
+      213: -8952825380018100463
+    second: Asset 39_30
+  - first:
+      213: 3337562042266299214
+    second: Asset 39_31
+  - first:
+      213: 3774660993487767080
+    second: Asset 39_32
+  - first:
+      213: -2312493071945418213
+    second: Asset 39_33
+  - first:
+      213: -5582461359069226795
+    second: Asset 39_34
+  - first:
+      213: 1608634777048996466
+    second: Asset 39_35
+  - first:
+      213: -3520019416474548436
+    second: Asset 39_36
+  - first:
+      213: -3858021270679689925
+    second: Asset 39_37
+  - first:
+      213: -4771636936614343035
+    second: Asset 39_38
+  - first:
+      213: 3092403598342391985
+    second: Asset 39_39
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Asset 39_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2298
+        width: 400
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009063dcf36e35840800000000000000
+      internalID: 5211762355497994496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_1
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 2300
+        width: 393
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c9186df527bcbf0800000000000000
+      internalID: -303022793971098478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_2
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 2300
+        width: 392
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a13a69174e6b9830800000000000000
+      internalID: 4078975139162239400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_3
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 2300
+        width: 394
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132465e0acb591490800000000000000
+      internalID: -7775082358296395215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_4
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 2300
+        width: 394
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50d52dcdd1d81a70800000000000000
+      internalID: 8798012622628048989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_5
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 2300
+        width: 394
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134b939aa5a0adf30800000000000000
+      internalID: 4601001353814848561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_6
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 2300
+        width: 393
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1885a6f546d2ead80800000000000000
+      internalID: -8237596759293273983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_7
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 2302
+        width: 393
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71564cf50233a4630800000000000000
+      internalID: 3911995440463373591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_8
+      rect:
+        serializedVersion: 2
+        x: 3676
+        y: 2306
+        width: 392
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb595527d7ccd060800000000000000
+      internalID: 6979673249375935474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1822
+        width: 396
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c963904883734b90800000000000000
+      internalID: -7258831145354958392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_10
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1827
+        width: 393
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1d7689e2c5cbc00800000000000000
+      internalID: 917709779271930322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_11
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1827
+        width: 393
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a464e58b0d61d4f60800000000000000
+      internalID: 8020091597118916170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_12
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 1827
+        width: 394
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e141e9944fb3a90800000000000000
+      internalID: -7332998971220812135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_13
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1827
+        width: 394
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ed47eaf631adf20800000000000000
+      internalID: 3448089835094728295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_14
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 1831
+        width: 392
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b753608399de2b390800000000000000
+      internalID: -7803913961953938053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_15
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 1827
+        width: 394
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd4450740a38bc70800000000000000
+      internalID: 8986996847156678138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_16
+      rect:
+        serializedVersion: 2
+        x: 3193
+        y: 1825
+        width: 395
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d66e76a463a7af00800000000000000
+      internalID: 1128049884364957398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_17
+      rect:
+        serializedVersion: 2
+        x: 3676
+        y: 1831
+        width: 392
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d37c991bf16bd4c0800000000000000
+      internalID: -4261704891281673255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1330
+        width: 476
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6110ca9312ebf630800000000000000
+      internalID: 3962008871031017835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_19
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1328
+        width: 485
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88fe26f743a775d0800000000000000
+      internalID: -3064801491934054259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_20
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1334
+        width: 465
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b93abb8c6323e20800000000000000
+      internalID: 3328783310349638510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_21
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1350
+        width: 294
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd10ed6747b91410800000000000000
+      internalID: 1448390272590290429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_22
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1350
+        width: 294
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9563c462f73ea7b30800000000000000
+      internalID: 4285988130639328857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_23
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 1177
+        width: 367
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae89440f20785e10800000000000000
+      internalID: 2186620966326079150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_24
+      rect:
+        serializedVersion: 2
+        x: 3157
+        y: 1346
+        width: 398
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6721047c38a3500800000000000000
+      internalID: 376758410635540147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_25
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 0
+        width: 426
+        height: 1740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8631832f7fca82070800000000000000
+      internalID: 8081899712237015912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_26
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 780
+        width: 1754
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570945cd98fc00480800000000000000
+      internalID: -8934913469689065355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_27
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 567
+        width: 1653
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58afa4a6c7988ed80800000000000000
+      internalID: -8221169952312591739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_28
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 369
+        width: 1641
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998752e4cbc701a60800000000000000
+      internalID: 7642745715854506137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_29
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 19
+        width: 29
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0fb2897fab4af90800000000000000
+      internalID: -6943219152925757247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_30
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 19
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1176bef30cc21c380800000000000000
+      internalID: -8952825380018100463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_31
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 75
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b2c198ef6615e20800000000000000
+      internalID: 3337562042266299214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_32
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 19
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8268c50bc2a426430800000000000000
+      internalID: 3774660993487767080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_33
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 19
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a342d9dcf58efd0800000000000000
+      internalID: -2312493071945418213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_34
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 21
+        width: 17
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8955898fc1782b0800000000000000
+      internalID: -5582461359069226795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_35
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 21
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a585b8ec4035610800000000000000
+      internalID: 1608634777048996466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_36
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 3
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c278e869df0662fc0800000000000000
+      internalID: -3520019416474548436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_37
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 19
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b356c31581e857ac0800000000000000
+      internalID: -3858021270679689925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_38
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 19
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e08f3cc7db7cdb0800000000000000
+      internalID: -4771636936614343035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 39_39
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 19
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8865d30bc6aea20800000000000000
+      internalID: 3092403598342391985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
